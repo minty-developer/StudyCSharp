@@ -1,0 +1,44 @@
+<Solution>
+  <Folder Name="/Code/1. ObjectPool/">
+    <Project Path="./Code/1. ObjectPool/ObjectPool.csproj" />
+  </Folder>
+  <Folder Name="/Code/10. Component/">
+    <Project Path="./Code/10. Component/Component.csproj" />
+  </Folder>
+  <Folder Name="/Code/11. Caching/">
+    <Project Path="./Code/11. Caching/Caching.csproj" />
+  </Folder>
+  <Folder Name="/Code/12. GC/">
+    <Project Path="./Code/12. GC/GC.csproj" />
+  </Folder>
+  <Folder Name="/Code/13. Allocation/">
+    <Project Path="./Code/13. Allocation/Allocation.csproj" />
+  </Folder>
+  <Folder Name="/Code/14. Profiling/">
+    <Project Path="./Code/14. Profiling/Profiling.csproj" />
+  </Folder>
+  <Folder Name="/Code/2. Singleton/">
+    <Project Path="./Code/2. Singleton/Singleton.csproj" />
+  </Folder>
+  <Folder Name="/Code/3. Factory/">
+    <Project Path="./Code/3. Factory/Factory.csproj" />
+  </Folder>
+  <Folder Name="/Code/4. Strategy/">
+    <Project Path="./Code/4. Strategy/Strategy.csproj" />
+  </Folder>
+  <Folder Name="/Code/5. State/">
+    <Project Path="./Code/5. State/State.csproj" />
+  </Folder>
+  <Folder Name="/Code/6. Observer/">
+    <Project Path="./Code/6. Observer/Observer.csproj" />
+  </Folder>
+  <Folder Name="/Code/7. Command/">
+    <Project Path="./Code/7. Command/Command.csproj" />
+  </Folder>
+  <Folder Name="/Code/8. DI/">
+    <Project Path="./Code/8. DI/DI.csproj" />
+  </Folder>
+  <Folder Name="/Code/9. MVC_MVP/">
+    <Project Path="./Code/9. MVC_MVP/MVC_MVP.csproj" />
+  </Folder>
+</Solution>
